@@ -2,7 +2,7 @@
 - 👀 I’m interested in new technologies and research works
 - 🌱 I’m currently learning Machine Learning & Deep Learning
 - 💞 Currently working on Sentiment Analysis in NLP
-- 📫 How to reach me ...
+- 📫 How to reach me @
 
 <!---
 priotapriyo/priotapriyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
