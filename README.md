@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priota</h1>
-- 🔭 I’m currently working on **NLP**
+- 🔭 I’m currently working on **Laravel**
 
-- 🌱 I’m currently learning **Machine Learning & Deep Learning**
-
-- 💬 Ask me about **SQL, threejs**
+- 💬 Ask me about **SQL, Laravel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
