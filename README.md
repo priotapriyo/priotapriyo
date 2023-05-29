@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priota</h1>
-- 🔭 I’m currently working on **Laravel**
+- 🔭 I’m currently working on **Laravel with React.JS**
 
-- 💬 Ask me about **SQL, Laravel**
+- 💬 Ask me about **SQL, Laravel, React.JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
